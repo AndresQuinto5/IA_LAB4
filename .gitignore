@@ -11,6 +11,8 @@
 # IPython
 profile_default/
 ipython_config.py
+# Ignore CSV files
+*.csv
 
 
 # Remove previous ipynb_checkpoints
