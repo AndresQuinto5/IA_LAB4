@@ -11,7 +11,7 @@
 ### Tareas
 
 ### Resultados
-<!-- [Notebook](https://github.com/AndresQuinto5/IA_LAB3/blob/master/Laboratorio3.ipynb) -->
+[Notebook](https://github.com/AndresQuinto5/IA_LAB4/blob/main/Laboratorio4.ipynb)
 
 ### Procedimiento
 Para cada tarea, se debe seguir un enfoque práctico, utilizando Python y Jupyter Notebook. Es fundamental citar todas las fuentes de información utilizadas.
