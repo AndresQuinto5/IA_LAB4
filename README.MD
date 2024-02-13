@@ -5,6 +5,7 @@
 - [Andres Quinto - 18288](https://github.com/AndresQuinto5)
 - [Marlon Hernández - 15177](https://github.com/ivanhez)
 - [Javier Prado - 21486](https://github.com/Javilejoo)
+- [Luis Montenegro - 21699](https://github.com/LuisMontenegro21)
 
 ### Descripción
 
